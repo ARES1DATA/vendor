@@ -135,26 +135,8 @@
             font-size:12px;
             color:rgb(8, 8, 8);
     }
-    .otp{   position:relative;
-        left:60px;    
-        width:50px;
-        height: 20px;
-        border-radius:15px;
-        padding:0 10px;
-        font-size:12px;
-        color:rgb(8, 8, 8);
-
-    }
-    .otp2{   position:relative;
-        left:30px;    
-        width:50px;
-        height: 20px;
-        border-radius:15px;
-        padding:0 10px;
-        font-size:12px;
-        color:rgb(8, 8, 8);
-
-    }
+    
+    
     .add{
                       
             width:400px;
@@ -176,13 +158,23 @@
     }
     .add1{
         position:relative;
-            left:20px;    
+            left:25px;    
             width:180px;
             height: 25px;
             border-radius:6px;
             padding:0 2px;
             font-size:13px;
             color:rgb(8, 8, 8);
+    }
+    .otp2{   position:relative;
+        left:35px;    
+        width:50px;
+        height: 20px;
+        border-radius:15px;
+        padding:0 10px;
+        font-size:12px;
+        color:rgb(8, 8, 8);
+
     }
     .add2{
         position:relative;
@@ -193,6 +185,16 @@
             padding:0 2px;
             font-size:13px;
             color:rgb(8, 8, 8);
+    }
+    .otp{   position:relative;
+        left:60px;    
+        width:50px;
+        height: 20px;
+        border-radius:15px;
+        padding:0 10px;
+        font-size:12px;
+        color:rgb(8, 8, 8);
+
     }
    
     
@@ -209,7 +211,7 @@
         }
         
         .submit:hover {
-        background-color: #15b61b;
+        background-color: #0c836f;
         color: white;
         }
         
