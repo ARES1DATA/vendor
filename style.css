@@ -14,9 +14,16 @@ text-align :center;
 border-radius:15px 15px 0px 0px;
 }
 
-form{
-padding:10px;
-}
+ .main{
+        background-color:rgba(174, 236, 169, 0.5);
+        width:700px;
+        margin:auto;
+        word-spacing: 2px;
+        }
+        
+        form{
+        padding:10px;
+        }
 .namev{
 position:relative;
 left:200px;    
